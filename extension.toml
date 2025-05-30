@@ -1,0 +1,7 @@
+id = "anthracite-theme"
+name = "Anthracite"
+version = "1.0.0"
+schema_version = 1
+authors = ["boycsuk"]
+description = "Anthracite theme for Zed Editor."
+repository = "https://github.com/boycsuk/anthracite-theme"
